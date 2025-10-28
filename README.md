@@ -26,10 +26,38 @@
 
 ## 🧠 Tech Stack  
 
-**Langages** : Python | SQL | HTML  
-**Outils Data** : Pandas | NumPy | DBT | BigQuery | Airflow  
-**Visualisation** : Metabase | Matplotlib | Seaborn | Looker Studio  
-**Versioning / Dev** : Git | GitHub | VS Code | Copilot  
+### 🔹 Languages & Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+</p>
+
+### 🔹 Data & Orchestration  
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white"/>
+</p>
+
+### 🔹 Visualization & BI  
+<p align="center">
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-3182bd?style=flat-square"/>
+</p>
+
+### 🔹 Dev & Collaboration  
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
+</p>
+
 
 ---
 
