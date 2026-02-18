@@ -25,9 +25,9 @@ J'accompagne les equipes techniques et metier dans l'adoption de l'IA au quotidi
 
 ## Comment je travaille
 
-- J'essaie de livrer des choses qui tiennent en production
-- Je documente pour que l'equipe puisse avancer sans moi
-- J'apprends autant que je transmets
+- Production first, documentation incluse
+- L'equipe doit pouvoir continuer sans moi
+- Chaque mission est aussi une occasion d'apprendre
 
 ---
 
