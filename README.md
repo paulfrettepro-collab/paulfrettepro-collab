@@ -3,7 +3,7 @@
 Je construis des pipelines data et des solutions IA en production.
 Je forme les equipes a les maintenir en autonomie.
 
-`Python` `SQL` `dbt` `Airflow` `BigQuery` `Snowflake` `Docker`
+`Python` `SQL` `dbt` `Airflow` `BigQuery` `PostgreSQL` `Docker`
 
 ---
 
@@ -11,23 +11,23 @@ Je forme les equipes a les maintenir en autonomie.
 
 ### Architecture Data & Pipelines
 Conception de pipelines ELT, architecture medallion (bronze/silver/gold), data quality et orchestration.
-`dbt` `Airflow` `PostgreSQL` `BigQuery` `Snowflake`
+`dbt` `Airflow` `PostgreSQL` `BigQuery`
 
 ### Data Warehousing & Modelisation
 Deploiement de data warehouses cloud, modelisation dimensionnelle (star schema), optimisation des couts et performances.
-`BigQuery` `Snowflake` `SQL` `Docker` `GCP` `AWS` `Azure`
+`BigQuery` `PostgreSQL` `SQL` `Docker` `GCP` `AWS` `Azure`
 
 ### IA Appliquee & Enablement
-Solutions RAG et agents LLM ancres sur des donnees d'entreprise. Formation des equipes techniques a l'utilisation et la maintenance.
+J'accompagne les equipes techniques et metier dans l'adoption de l'IA au quotidien : nouveaux workflows, outils concrets, montee en competences. L'objectif est de liberer du temps pour ce qui compte — la creativite et la collaboration.
 `LangChain` `LlamaIndex` `OpenAI API` `RAG`
 
 ---
 
 ## Comment je travaille
 
-- Je construis en production, pas en POC
-- Je documente pour que l'equipe reprenne sans moi
-- Je forme sur le terrain, pas en salle de cours
+- J'essaie de livrer des choses qui tiennent en production
+- Je documente pour que l'equipe puisse avancer sans moi
+- J'apprends autant que je transmets
 
 ---
 
