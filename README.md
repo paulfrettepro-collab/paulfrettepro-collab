@@ -18,7 +18,7 @@ Deploiement de data warehouses cloud, modelisation dimensionnelle (star schema),
 `BigQuery` `PostgreSQL` `SQL` `Docker` `GCP` `AWS` `Azure`
 
 ### IA Appliquee & Enablement
-J'accompagne les equipes techniques et metier dans l'adoption de l'IA au quotidien : nouveaux workflows, outils concrets, montee en competences. L'objectif est de liberer du temps pour ce qui compte — la creativite et la collaboration.
+J'accompagne les equipes techniques et metier dans l'adoption de l'IA au quotidien : nouveaux workflows, outils concrets, montee en competences. Objectif : reduire le temps passe sur les taches repetitives et permettre aux equipes de se concentrer sur leur coeur de metier.
 `LangChain` `LlamaIndex` `OpenAI API` `RAG`
 
 ---
@@ -27,30 +27,24 @@ J'accompagne les equipes techniques et metier dans l'adoption de l'IA au quotidi
 
 - Production first, documentation incluse
 - L'equipe doit pouvoir continuer sans moi
-- Chaque mission est aussi une occasion d'apprendre
+- Je documente chaque decision technique pour la passation
 
 ---
 
 ## Missions & Projets
 
-### En mission
-
-**Proprietes Privees** — Unification d'une base client a partir de 27 sources PostgreSQL en un referentiel unique. Conception de l'architecture data, nettoyage et reconciliation des donnees, pipeline de synchronisation.
-
-### Projets personnels
-
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Battlefield Meta Aggregator](https://github.com/paulfrettepro-collab/battlefield_meta_aggregator) | Pipeline ELT automatise : scraping, BigQuery, architecture medallion, 44 tests dbt, CI/CD GitHub Actions. 100% de success rate, $0/mois. | Python, dbt, BigQuery, GitHub Actions, Streamlit |
-| [Medical Transcriptions OpenAI](https://github.com/paulfrettepro-collab/organizing_medical_transcriptions_with_OpenAI_API) | Structuration automatique de transcriptions medicales via LLM | OpenAI API, Python |
-| [Guide Touristique IA](https://github.com/paulfrettepro-collab/projet_guide_touristique_ia) | Assistant IA pour parcours touristiques personnalises | Python, OpenAI |
-| [Data Analysis Portfolio](https://github.com/paulfrettepro-collab/data-analysis-portfolio) | Analyses exploratoires et visualisations sur des jeux de donnees reels | Python, SQL |
+| **Proprietes Privees** (mission freelance) | Referentiel client unique : 27 bases PostgreSQL heterogenes → 1,14M lignes normalisees. Modele en etoile, dashboards Metabase. Livre en 30 jours. | Python, SQL, PostgreSQL, dbt, Airflow, Metabase |
+| [**Battlefield Meta Aggregator**](https://github.com/paulfrettepro-collab/battlefield_meta_aggregator) | Pipeline ELT automatise : scraping, BigQuery, architecture medallion, 44 tests dbt, CI/CD GitHub Actions. 100% success rate, $0/mois d'infra (free tier GCP). | Python, dbt, BigQuery, GitHub Actions, Streamlit |
+
+> Autres projets exploratoires dans mes repos : [transcription medicale via LLM](https://github.com/paulfrettepro-collab/organizing_medical_transcriptions_with_OpenAI_API), [assistant touristique IA](https://github.com/paulfrettepro-collab/projet_guide_touristique_ia), [analyses de donnees](https://github.com/paulfrettepro-collab/data-analysis-portfolio).
 
 ---
 
 ## Parcours
 
-10 ans d'experience professionnelle. D'abord sur le terrain — chef de produit marketing, formation d'equipes commerciales (80+ personnes formees chez Philips/Signify sur 7 ans a l'international). Puis evolution vers la data et l'IA pour construire des outils qui servent vraiment les equipes.
+10 ans d'experience professionnelle. D'abord chef de produit marketing et formateur d'equipes commerciales (80+ personnes formees chez Philips/Signify, 7 ans a l'international). Puis pivot vers la data et l'IA, avec la meme obsession : rendre les equipes autonomes.
 
 **Formation**
 Master Marketing Digital (IDRAC Business School) · Bachelor IA & Big Data (Le Wagon)
