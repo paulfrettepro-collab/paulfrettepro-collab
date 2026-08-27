@@ -20,7 +20,7 @@ Operating my own system daily is how I stay honest about what AI adoption really
 
 **Data architecture and pipelines.** ELT pipelines, medallion architecture, dimensional modeling, data quality and orchestration. `dbt` `Airflow` `BigQuery` `PostgreSQL` `GitHub Actions`
 
-**Applied AI and enablement.** I help technical and business teams adopt AI in their daily work: concrete workflows, real tools, skills that stick. End-to-end GenAI adoption programs designed and delivered for a regional government and SMEs: 77 people trained, 4.96/5 teaching quality.
+**Applied AI and enablement.** I help technical and business teams adopt AI in their daily work: concrete workflows, real tools, skills that stick. End-to-end GenAI adoption programs designed and delivered for a regional government, agencies and SMEs: 4.9/5 teaching quality and a 100% recommendation rate across 90+ trainee evaluations.
 
 **How I work**: production first, documentation included. The team must be able to continue without me.
 
