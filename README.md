@@ -1,56 +1,46 @@
-# Paul Frette — Data Engineer · Formateur IA
+# Paul Fretté — AI Adoption & Data Engineering
 
-Je construis des pipelines data et des solutions IA en production.
-Je forme les equipes a les maintenir en autonomie.
+I build data pipelines and AI systems that run in production, and I train teams to own them without me.
 
-`Python` `SQL` `dbt` `Airflow` `BigQuery` `PostgreSQL` `Docker`
-
----
-
-## Ce que je fais
-
-### Architecture Data & Pipelines
-Conception de pipelines ELT, architecture medallion (bronze/silver/gold), data quality et orchestration.
-`dbt` `Airflow` `PostgreSQL` `BigQuery` `GitHub Actions`
-
-### Data Warehousing & Modelisation
-Deploiement de data warehouses cloud, modelisation dimensionnelle (star schema), optimisation des couts et performances.
-`BigQuery` `PostgreSQL` `SQL` `Docker` `GCP` `AWS` `Azure`
-
-### IA Appliquee & Enablement
-J'accompagne les equipes techniques et metier dans l'adoption de l'IA au quotidien : nouveaux workflows, outils concrets, montee en competences. Objectif : reduire le temps passe sur les taches repetitives et permettre aux equipes de se concentrer sur leur coeur de metier.
-`LangChain` `LlamaIndex` `OpenAI API` `RAG`
+`Python` `SQL` `dbt` `BigQuery` `Claude` `RAG & agents` `Swift (macOS)`
 
 ---
 
-## Comment je travaille
+## The system I live with
 
-- Production first, documentation incluse
-- L'equipe doit pouvoir continuer sans moi
-- Je documente chaque decision technique pour la passation
+My field lab is a self-improving personal AI system that has run my daily life since April 2026: voice-driven, always on, operated with production discipline. The code is private; the architecture and the engineering lessons are public:
 
----
+- [**Personal AI System**](https://github.com/paulfrettepro-collab/personal-ai-system-showcase): the core. A supervised 24/7 agent with persistent memory, incident-driven hardening, and a study of running large open-weight models fully at home.
+- [**Instant Assistant**](https://github.com/paulfrettepro-collab/instant-assistant-showcase): the interactive side. A native floating assistant, sub-second to the first word, latency measured down to the display refresh.
+- [**Local-First Dictation**](https://github.com/paulfrettepro-collab/local-first-dictation-showcase): the sovereignty side. System-wide dictation where the audio never leaves the machine.
 
-## Missions & Projets
+Operating my own system daily is how I stay honest about what AI adoption really costs and really returns.
 
-| Projet | Description | Stack |
+## What I do
+
+**Data architecture and pipelines.** ELT pipelines, medallion architecture, dimensional modeling, data quality and orchestration. `dbt` `Airflow` `BigQuery` `PostgreSQL` `GitHub Actions`
+
+**Applied AI and enablement.** I help technical and business teams adopt AI in their daily work: concrete workflows, real tools, skills that stick. End-to-end GenAI adoption programs designed and delivered for a regional government and SMEs: 77 people trained, 4.96/5 teaching quality.
+
+**How I work**: production first, documentation included. The team must be able to continue without me.
+
+## Field-proven data work
+
+| Project | Description | Stack |
 |--------|-------------|-------|
-| **Proprietes Privees** (mission freelance) | Referentiel client unique : 27 bases PostgreSQL heterogenes → 1,14M lignes normalisees. Modele en etoile, dashboards Metabase. Livre en 30 jours. | Python, SQL, PostgreSQL, dbt, Airflow, Metabase |
-| [**Battlefield Meta Aggregator**](https://github.com/paulfrettepro-collab/battlefield_meta_aggregator) | Pipeline ELT automatise : scraping, BigQuery, architecture medallion, 44 tests dbt, CI/CD GitHub Actions. 100% success rate, $0/mois d'infra (free tier GCP). | Python, dbt, BigQuery, GitHub Actions, Streamlit |
+| **Propriétés Privées** (freelance mission) | Single customer data mart from 27 heterogeneous PostgreSQL sources, 1.14M rows normalized. Star schema, Metabase dashboards, delivered in 30 days. | Python, SQL, PostgreSQL, dbt, Metabase |
+| [**Battlefield Meta Aggregator**](https://github.com/paulfrettepro-collab/battlefield_meta_aggregator) | Automated ELT pipeline: scraping, BigQuery, medallion architecture, 44 dbt tests, CI/CD via GitHub Actions. $0/month of infrastructure (GCP free tier). | Python, dbt, BigQuery, GitHub Actions, Streamlit |
 
-> Autres projets exploratoires dans mes repos : [transcription medicale via LLM](https://github.com/paulfrettepro-collab/organizing_medical_transcriptions_with_OpenAI_API), [assistant touristique IA](https://github.com/paulfrettepro-collab/projet_guide_touristique_ia), [analyses de donnees](https://github.com/paulfrettepro-collab/data-analysis-portfolio).
+These two are where I first got my hands dirty with a modern data stack, and they still run.
 
----
+## Background
 
-## Parcours
+Ten years of professional experience. First as a product manager and trainer of sales teams (80+ people trained at Philips/Signify, 7 years international), then a full pivot to data and AI, with the same obsession: making teams autonomous.
 
-10 ans d'experience professionnelle. D'abord chef de produit marketing et formateur d'equipes commerciales (80+ personnes formees chez Philips/Signify, 7 ans a l'international). Puis pivot vers la data et l'IA, avec la meme obsession : rendre les equipes autonomes.
+One conviction keeps resurfacing in my reading notes, from Isaacson's biographies of Jobs and Musk: the people who build the products I admire are designer × engineer at once. They refuse to separate how a thing works from how it feels to use, and I hold my own systems to that standard.
 
-**Formation**
-Master Marketing Digital (IDRAC Business School) · Bachelor IA & Big Data (Le Wagon)
-
-**Certifications**
-AI Engineer (DataCamp) · Data Engineering (IBM) · Project Management (Harvard Online) · Scrum Master
+**Education**: Bachelor AI & Big Data (Le Wagon) · Master in Digital Marketing (IDRAC Business School)
+**Certifications**: AI Engineer (DataCamp) · Data Engineering (IBM) · Project Management (Harvard Online)
 
 ---
 
